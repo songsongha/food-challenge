@@ -3,7 +3,7 @@ html {
   width: 100%;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
-  background-image: url("noodles.JPG") no-repeat center fixed; 
+  background:  url("noodles.JPG") no-repeat fixed center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
